@@ -1,0 +1,8 @@
+{
+    category: "Entertainment: Video Games"
+    correct_answer: "Link"
+    difficulty: "medium"
+    incorrect_answers: ['Wario', 'Q*bert', 'Solid Snake']
+    question: "If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?"
+    type: "multiple"
+}
